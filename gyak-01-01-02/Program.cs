@@ -1,14 +1,13 @@
-﻿// 2.	TermekProjekt
-// Készítsen osztályokat különböző termékekből (pl. hűtő, sütő, kenyérpirító,…).
-// A termékek egy elárusítással foglalkozó cég kezeli.
-// A cég alkalmazottja a különböző termékeket tudja a raktárba bevételezni és a raktárból kiadni.
-// Írja meg ennek megfelelően a szükséges metódusokat a polimorfizmus elvét figyelembe véve.
-// Mindegyik metódus egy megfelelő szöveget írjon ki a képernyőre
-// (pl. „A munkatárs bevételezte a sütőt.” vagy „A munkatárs kiadta a kenyérpirítót.”!
-// A cég József nevű dolgozója bevételezzen egy terméket!
-// Ezután a cég Éva nevű dolgozója bevételezzen egy terméket!
-// Ezután Éva adja ki a bevételezett terméket, majd József is adja ki a bevételezett terméket!
-// Az elkészült osztály dokumentálja UML diagrammal!
+﻿/*
+Egy játékban kutyák és macskák szerepelnek! Ezek az áttatok a játékban futnak és állnak!
+Készítsen kutya (Dog) és macska (Cat) osztályt!
+Készíts el a polimorf metódusokat Run és Stand néven! 
+Mindegyik metódus egy megfelelő szöveget írjon ki a képernyőre (pl. „A kugya szalad.” vagy „A macska áll.”)
+A feladat megoldása megfelelő, ha a tesztek lefutnak!
+Példányosítsa Tom macskát és Spike kugyát. 
+Szimuláljon egy versenyt közöttük, ahol ez egyik előbb indul, a másik előbb érkezik meg!
+Az elkészült osztály dokumentálja UML diagrammal!
+*/
 
 using System;
 

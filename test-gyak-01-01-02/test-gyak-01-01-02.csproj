@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-	  <ProjectReference Include="..\gyak01-01-02\JatekProjekt.csproj" />
+	  <ProjectReference Include="..\gyak-01-01-02\JatekProjekt.csproj" />
   </ItemGroup>
 
 </Project>

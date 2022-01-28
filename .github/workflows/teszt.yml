@@ -10,7 +10,7 @@ on:
 
 env:
   DOTNET_VERSION: '5.0.x'
-  TEST_PATH: test-gyak-01-01-01/test-gyak-01-01-01.csproj
+  TEST_PATH: test-gyak-01-01-02/test-gyak-01-01-02.csproj
 
 jobs:
   build-and-test:

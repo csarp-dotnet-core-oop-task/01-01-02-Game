@@ -1,5 +1,5 @@
 # 01-01-02-Game
-Egy játékban kutyák és macskák szerepelnek! Ezek az áttatok a játékban futnak és állnak!
+Egy játékban kutyák és macskák szerepelnek! Ezek az állatok a játékban futnak és állnak!
 Készítsen kutya (Dog) és macska (Cat) osztályt! Készíts el a polimorf metódusokat Run és Stand néven! Mindegyik metódus egy megfelelő szöveget írjon ki a képernyőre (pl. „A kugya szalad.” vagy „A macska áll.”)
 
 
